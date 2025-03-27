@@ -27,8 +27,8 @@ Sentry.init({
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename = "./Apple-Clone/">
+    
     <App />
-      </BrowserRouter>
-  </React.StrictMode>,
+     
+  </React.StrictMode>
 )
